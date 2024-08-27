@@ -1,4 +1,5 @@
 # Test-Time-Adaptation-for-Image-Classification
+
 Deep neural networks have revolutionized the field of computer vision, achieving unprecedented performance in tasks such as image classification, object detection, and anomaly detection. However, these models face a significant challenge, called **domain shift**: this phenomenon occurs when a model encounters test data that differs substantially from the training data's distribution, leading to severe performance degradation.
 
 Domain shift can arise in various ways:
