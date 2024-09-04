@@ -25,3 +25,5 @@ In the context of TTA, we explore two promising approaches:
 2. **Prompt Learning**: Automatically learning optimal prompts for specific test-time scenarios, potentially outperforming hand-crafted prompts
 
 By combining the power of VLMs with Test-Time Adaptation techniques, we aim to develop more robust and flexible image classification systems capable of maintaining high performance across diverse and challenging real-world scenarios.
+
+Note: the final version of the code has been developed in AWS.
